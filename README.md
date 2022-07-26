@@ -5,13 +5,15 @@
 Instalar [NVim](https://neovim.io/)  
 
     scoop install nvim gcc
-    
+
 Instalar [Noode Js](https://nodejs.org/en/download/)  
 
 Instala [RipGrep](https://community.chocolatey.org/packages/ripgrep)  
 
-    choco install ripgrep    
-### Para configurar NVim
+    choco install ripgrep  
+
+### Para configurar NVim  
+
 Clonar repositorio en la direccion *C:\users\usuario\AppData\Local*  
 
 Abrir archivo init.vim con vim  
@@ -23,5 +25,3 @@ Escribir lo siguiente
     :PlugInstall
 
 > Disfruta :)
-
-
