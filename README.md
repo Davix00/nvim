@@ -25,7 +25,7 @@ Escribir lo siguiente
     :PlugInstall
 
 ### Resultado Final
-![res-nvim](*/img/nvim01.png)
-![res-nvim2](*/img/nvim02.png)
+![res-nvim](nvim/img/nvim01.png)
+![res-nvim2](nvim/img/nvim02.png)
 
 > Disfruta :)
