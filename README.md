@@ -1,12 +1,19 @@
 ## Neovim Windows
 ---
 ### Requisitos de instalación  
+Instalar [Scoop](https://scoop.sh/#/)  
 
-Instalar [NVim](https://neovim.io/)  
+    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
+    irm get.scoop.sh | iex
+ 
+ 
+Instalar [NVim](https://neovim.io/) 
 
     scoop install nvim gcc
 
 Instalar [Noode Js](https://nodejs.org/en/download/)  
+
+    scoop install nodejs
 
 Instala [RipGrep](https://community.chocolatey.org/packages/ripgrep)  
 
